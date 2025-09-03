@@ -1,18 +1,1 @@
-index.html
-  styles.css
-  /images/
-    hub-background.png      ← your room background
-    jukebox.png
-    megaphone.png
-    recording-desk.png
-    objectives-screen.png
-    toolkit-chest.png
-    flower-vase.png
-    papel-picado.png
-    origami-cranes.png
-    green-screen.png
-    delac-marquee.png
-    elevation-laptop.png
-    elpac-goals.png
-  /data/
-    hotspots.json
+.
